@@ -41,7 +41,7 @@ class Solution:
 ```
 ## Complexity Analysis
 
-- **Time Complexity**: $O(n^2)$ | $n$: 리스트의 길이
+- **Time Complexity**: $O(n^2*m)$ | $n$: 리스트의 길이, m: 단어의 최대 길이
 
 - **Space Complexity**: $O(n)$ 
 
@@ -73,7 +73,7 @@ for word in words:
 
 ## Improved Complexity Analysis
 
-- **Time Complexity**: $O(n^2)$
+- **Time Complexity**: $O(n^2*m)$
 
 시간 복잡도는 여전히 $O(n^2)$로 유지되지만, 리스트 복사 및 삭제 과정이 제거되었기 때문에 실제 실행 시간은 이전보다 더 효율적이다.
 

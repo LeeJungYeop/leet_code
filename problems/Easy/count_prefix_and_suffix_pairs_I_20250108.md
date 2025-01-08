@@ -47,9 +47,7 @@ class Solution:
 ```
 ## Complexity Analysis
 
-- **Time Complexity**: $O(n^2*m)$  
-
-n: 리스트의 길이, m: 단어의 최대 길이 
+- **Time Complexity**: $O(n^2*m)$ $n$: 리스트의 길이, $m$: 단어의 최대 길이 
 
 - **Space Complexity**: $O(1)$ 
 

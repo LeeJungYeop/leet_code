@@ -41,9 +41,10 @@ class Solution:
 ```
 ## Complexity Analysis
 
-- **Time Complexity**: $O(n^2)$  
+- **Time Complexity**: $O(n^2)$
+n: 리스트의 길이
 
-- **Space Complexity**: $O(b)$ 
+- **Space Complexity**: $O(n)$ 
 
 ## Points for Improvement
 
@@ -73,13 +74,13 @@ for word in words:
 
 ## Improved Complexity Analysis
 
-- **시간 복잡도 (Time Complexity)**: $O(n^2)$
+- **Time Complexity**: $O(n^2)$
 
 시간 복잡도는 여전히 $O(n^2)$로 유지되지만, 리스트 복사 및 삭제 과정이 제거되었기 때문에 실제 실행 시간은 이전보다 더 효율적이다.
 
-- **Space Complexity**: $O(b)$
+- **Space Complexity**: $O(n)$
 
-공간 복잡도는 여전히 $O(b)$로 나타나지만, 리스트 복사가 없어짐에 따라 추가적인 메모리 사용이 줄어들어 효율성이 개선되었다.
+공간 복잡도는 여전히 $O(n)$로 나타나지만, 리스트 복사가 없어짐에 따라 추가적인 메모리 사용이 줄어들어 효율성이 개선되었다.
 
 ## Questions
 

@@ -42,6 +42,7 @@ class Solution:
 ## Complexity Analysis
 
 - **Time Complexity**: $O(n^2)$
+
 n: 리스트의 길이
 
 - **Space Complexity**: $O(n)$ 

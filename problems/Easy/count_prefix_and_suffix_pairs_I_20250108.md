@@ -24,7 +24,8 @@ words[i] consists only of lowercase English letters.
 ## Overview of My solution
 
 for문에서 index가 1만큼씩 커지고 words의 길이 만큼 반복하는데, 
-words[i]가 words[i] 보다 뒤에 있는 값들 중에 prefix, suffix 관계를 둘 다 만족할 떄마다 result를 증가시킨다.
+
+words[i]가 words[i] 보다 뒤에 있는 값들 중에 prefix, suffix 관계를 둘 다 만족할 때마다 result를 증가시킨다.
 
 ## Solution
 ```python

@@ -22,7 +22,7 @@ Return an integer denoting the number of index pairs (i, j) such that i < j, and
 
 words[i] consists only of lowercase English letters.
 
-## Overview of My solution
+## Overview of solution
 
 for문에서 index가 1만큼씩 커지고 words의 길이 만큼 반복하는데, 
 

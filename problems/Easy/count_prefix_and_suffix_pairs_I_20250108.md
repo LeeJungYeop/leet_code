@@ -1,6 +1,7 @@
 # Problem: 3042, Count Prefix and Suffix Pairs I
 - **Difficulty**: Easy
 - **Problem Link**: [LeetCode](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)
+- **Status**: Thought Through(Solved by myself)
 
 ## Problem
 You are given a 0-indexed string array words.

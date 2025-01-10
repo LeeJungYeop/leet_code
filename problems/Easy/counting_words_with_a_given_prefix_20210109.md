@@ -1,7 +1,7 @@
 # Problem: 2185, Counting Words With a Given Prefix
 - **Difficulty**: Easy
 - **Problem Link**: [LeetCode](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
-- - **Status**: Thought Through(Solved by myself)
+- **Status**: Thought Through(Solved by myself)
 
 ## Problem
 You are given an array of strings words and a string pref.

@@ -1,6 +1,7 @@
 # Problem: 1408, String Matching in an Array
 - **Difficulty**: Easy
 - **Problem Link**: [LeetCode](https://leetcode.com/problems/string-matching-in-an-array/)
+- **Status**: Thought Through(Solved by myself)
 
 ## Problem
 Given an array of string words, return all strings in words that is a substring of another word. You can return the answer in any order.
@@ -17,7 +18,7 @@ words[i] contains only lowercase English letters.
 
 All the strings of words are unique.
 
-## Overview of My solution
+## Overview of solution
 반복문을 돌 때마다 words의 복사본 words_copy을 새로 만든 후 word를 제외시키고,
 
 word를 제외한 나머지 값들이 있는 words_copy에서 반복문을 돌면서 word가 substring이면 break한다.

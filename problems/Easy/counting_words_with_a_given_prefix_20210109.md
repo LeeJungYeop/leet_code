@@ -18,7 +18,7 @@ A prefix of a string s is any leading contiguous substring of s.
 
 words[i] and pref consist of lowercase English letters.
 
-## Overview of My solution
+## Overview of solution
 
 for문에서 word가 pref로 시작되면, result를 1만큼 증가시킨다.
 
